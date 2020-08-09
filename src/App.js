@@ -61,14 +61,11 @@ const onCountryChange = async (event) => {
             </FormControl>
         </div>
 
-
-
-      {/*Header*/}
-      {/*Title + select input dropdown*/}
-
-      {/*InfoBox*/}
-      {/*InfoBox*/}
-      {/*InfoBox*/}
+        <div className="app__stats">
+            {/*InfoBox title = "corona case"*/}
+            {/*InfoBox title = "corona recoveries"*/}
+            {/*InfoBox*/}
+        </div>
 
 
       {/*Table*/}
